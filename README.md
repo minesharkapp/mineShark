@@ -1,2 +1,1 @@
-# contract
-Token source code
+Preparing
